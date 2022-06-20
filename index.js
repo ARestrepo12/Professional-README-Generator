@@ -13,13 +13,9 @@ const questions = [{
     type: "input",
     message: "Please provide a description of your project.",
     name: "Description"
-}, {
+},  {
     type: "input",
-    message: "Table of Contents.",
-    name: "Table of Contents"
-}, {
-    type: "input",
-    message: "What steps are required to install your project?",
+    message: "What dependencies are required to install for your project?",
     name: "Installation"
 }, {
     type: "input",
