@@ -87,5 +87,3 @@ function init() {
 // Function call to initialize app
 init();
 
-var message = "hello"
-console.log(message);
