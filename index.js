@@ -49,6 +49,14 @@ const questions = [{
     type: "input",
     message: "Do you have any tests for your application, if so please list examples on how to run them.",
     name: "Tests"
+}, {
+    type: "input",
+    message: "What is your github username?",
+    name: "Github"
+}, {
+    type: "input",
+    message: "What is your email address?",
+    name: "Email"
 }
 
 
